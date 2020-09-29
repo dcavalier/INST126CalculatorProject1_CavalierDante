@@ -1,0 +1,2 @@
+# INST126CalculatorProject1_CavalierDante
+This program is a calculator for four mathematical operations. Addition, Subtraction, Multiplication, Division. You will prompted in the beginning to input a number 1 to 4 to choose with math operation you want. Depending on which operation you choose, you will be prompted to input two more numbers that you will either add, subtract, multiply, or divide. Your results will be printed at the end.
